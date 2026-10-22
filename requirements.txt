@@ -1,0 +1,7 @@
+# Bu proje hiçbir şeye ihtiyaç duymaz.
+# Ama eğer istiyorsanız:
+# - Python 3.x
+# - Biraz esneme yeteneği
+# - Sonsuz sabır
+
+# Gizli bağımlılık: Özgür irade (opsiyonel)
